@@ -8,7 +8,8 @@ This is a JavaScript code snippet for generating random passwords and implementi
 ![Alt text](unpopulatedState.jpg)
 
 ![Alt text](populated%20state.jpg)
-![See live version]()
+
+![See live version](https://myrandompasswordgen.netlify.app/)
 
 Prerequisites
 
@@ -32,4 +33,3 @@ Two additional event listeners are added to each password input element to imple
 Finally, the code includes some basic CSS styles to create a simple user interface for the password generator.
 Credits
 
-This code was written by [Your Name Here].
