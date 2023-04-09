@@ -9,7 +9,6 @@ This is a JavaScript code snippet for generating random passwords and implementi
 
 ![Alt text](populated%20state.jpg)
 
-
 [See live version](https://rpasswordgen.netlify.app/)
 
 Prerequisites
